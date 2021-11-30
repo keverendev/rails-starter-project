@@ -1,0 +1,10 @@
+en:
+  title: "Untitled"
+
+  pages:
+    index:
+      description: "A base Rails application."
+    stimulus:
+      description: "A base Rails application with Turbo and Stimulus."
+    turbo:
+      description: "A base Rails application with Turbo."

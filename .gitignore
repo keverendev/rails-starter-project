@@ -1,0 +1,10 @@
+!.ruby-version
+!Procfile.dev
+
+/config/credentials/production.key
+/coverage/
+/log/
+/node_modules/
+/public/packs-test/
+/public/packs/
+/tmp/
